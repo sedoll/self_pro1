@@ -60,21 +60,20 @@
 
 
 ## 3️⃣ 논리적 설계
-![슬라이드1](https://github.com/kuyejin/project1/assets/65212187/35d3ae6b-baaa-493a-9717-7024ec0ac7f5)
-![슬라이드2](https://github.com/kuyejin/project1/assets/65212187/5b853237-7dc0-4d07-bf1f-0caff9f5dab9)
-![슬라이드3](https://github.com/kuyejin/project1/assets/65212187/b2d8fc47-08d9-4a4b-8ad0-70d579c0dab7)
-![슬라이드4](https://github.com/kuyejin/project1/assets/65212187/96aef4d4-dd65-419c-801f-cb3a0f925980)
-![슬라이드5](https://github.com/kuyejin/project1/assets/65212187/904508aa-1339-40e3-ab24-a0102b45b9aa)
-![슬라이드6](https://github.com/kuyejin/project1/assets/65212187/be2d5150-d885-412e-b087-6fe975a768f9)
-![슬라이드7](https://github.com/kuyejin/project1/assets/65212187/2b3693ef-d1d1-4ee6-b94a-5a2a7f320d38)
+![슬라이드1](/images/논리적설계/슬라이드1.PNG)
+![슬라이드2](/images/논리적설계/슬라이드2.PNG)
+![슬라이드3](/images/논리적설계/슬라이드3.PNG)
+![슬라이드4](/images/논리적설계/슬라이드4.PNG)
+![슬라이드5](/images/논리적설계/슬라이드5.PNG)
+![슬라이드6](/images/논리적설계/슬라이드6.PNG)
 ## 4️⃣ 물리적 설계
-![team1 - member](https://github.com/kuyejin/project1/assets/65212187/b05df6bc-a97f-4b1e-8e88-ce469779a794)  
+![erd](/images/erd.png)  
 
 <br/>
 <br/>
 
 # 📐 클래스 다이어그램
-![클래스다이어그램 (1)](https://github.com/kuyejin/project1/assets/65212187/ac5f2d7f-f8dc-4d6c-b0c4-9f3d390cc4ae)  
+![클래스다이어그램](/images/class.png)  
 
 <br/>
 <br/>
@@ -82,7 +81,6 @@
 #  💻 화면 설계도
 🔹header - 로그인 전
 ![01_header - 로그인 전](https://github.com/kuyejin/project1/assets/65212187/f0f5b725-4483-4afe-b869-f485e7dbc848)
-
 
 🔹header - 로그인 후
 ![02_header - 로그인 후](https://github.com/kuyejin/project1/assets/65212187/23cd8622-dff6-4d4b-90f2-a025817cbffd)
@@ -105,9 +103,6 @@
 🔹QnA_글작성
 ![08_QnA_글작성](https://github.com/kuyejin/project1/assets/65212187/aea322eb-e7c5-4c19-bf46-6bb55b81fc4e)
 
-🔹정보_입시뉴스
-![09_정보_입시뉴스](https://github.com/kuyejin/project1/assets/65212187/01f53a2c-d640-4bf4-b27e-d5853984ded4)
-
 🔹커뮤니티_글목록
 ![10_커뮤니티_글목록](https://github.com/kuyejin/project1/assets/65212187/b7ef830d-328d-496e-8048-74abcdfc9a7a)
 
@@ -126,10 +121,45 @@
 🔹마이페이지
 ![15_마이페이지](https://github.com/kuyejin/project1/assets/65212187/f64f83f7-b2ed-4bf8-9bba-c22c26b8ce59)
 
-🔹고객센터
-![16_고객센터](https://github.com/kuyejin/project1/assets/65212187/cf07bbab-f1db-4a18-a992-9946d91e4909)
+# 💻 최종 화면
+🔹메인<br>
+![메인](/images/fnl/메인화면.PNG)
 
-🔹고객센터 - FAQ
-![17_고객센터 - FAQ](https://github.com/kuyejin/project1/assets/65212187/fae19a35-fe2a-4f18-947a-82b6aed7282e)
+🔹로그인<br>
+![로그인](/images/fnl/로그인.PNG)
 
-🔹고객센터 - 문의하기![18_고객센터 - 문의하기](https://github.com/kuyejin/project1/assets/65212187/f6b1c0f0-0cd8-4b37-ae21-2dc3dc3a35a7)
+🔹회원가입1 - 학생, 교사 선택<br>
+![회원가입](/images/fnl/회원가입1.PNG)
+
+🔹회원가입1 - 정보 입력<br>
+![회원가입](/images/fnl/회원가입2.PNG)
+
+🔹회사소개<br>
+![회사소개](/images/fnl/회사소개.PNG)
+
+🔹오시는길<br>
+![오시는길](/images/fnl/오시는길.PNG)
+
+🔹게시판<br>
+![게시판](/images/fnl/게시판.PNG)
+
+🔹게시글상세<br>
+![게시글상세](/images/fnl/게시글상세.PNG)
+
+🔹게시글작성<br>
+![게시글작성](/images/fnl/게시글작성.PNG)
+
+🔹교육페이지 - 선생님 회원<br>
+![교육페이지1](/images/fnl/교육선생님.PNG)
+
+🔹교육페이지 - 학생 회원<br>
+![교육페이지2](/images/fnl/교육학생.PNG)
+
+🔹자료실 - 회원<br>
+![자료실1](/images/fnl/자료실회원.PNG)
+
+🔹자료실 - 관리자<br>
+![자료실2](/images/fnl/자료실관리자.PNG)
+
+🔹관리자 페이지<br>
+![관리자페이지](/images/fnl/관리자페이지.PNG)

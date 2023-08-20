@@ -37,8 +37,6 @@ E
 web/menu/learning.jsp,0\e\0e98ea7d4ca87b7175a7cc0fcda013a616f16b03
 >
 web/footer.jsp,d\1\d1d9225a0ea5584c9c07cd43b079735135b290f3
-=
-web/index.jsp,9\f\9f198ed450f32e45b10ec3c2b1406e609b4a96cd
 N
 src/com/chunjae/dto/Board.java,f\c\fc60570f9b76206476074afc3ca578b0cd29158f
 L
@@ -97,8 +95,6 @@ G
 web/admin/boardList.jsp,5\1\51d140a046798204a0ac93c99587e03f226f0bdb
 <
 web/head.jsp,4\a\4a87f90bffcdb4e9d2b938add5b82f2f1ade81b4
-M
-web/board_stu/getBoardStu.jsp,3\5\35ebcd6df902f15608699295616baaecc491d0ff
 N
 web/board_stu/boardStuList.jsp,0\b\0bf70cb818d0bde429debc93b410153ea93f6d63
 K
@@ -111,21 +107,25 @@ M
 web/qna_problem/updateAns.jsp,9\0\90d5fe51e0a09cecf33556f052815690001498e7
 U
 %web/qna_problem/updateQuestionpro.jsp,6\1\61be3adab0bc8903eaada642f1335a77b1c08e77
-R
-"web/qna_problem/updateQuestion.jsp,4\3\43f4964a70efecaacdefb99fec0043eb00d4438a
+C
+web/member/term.jsp,3\6\3619eaa96c134fb9e5401a3bb7a28c0a6d967300
 G
 web/board/boardList.jsp,2\a\2ac18a427f434a0841ff447d977ca9e9581f923d
-F
-web/board/getBoard.jsp,8\6\86f6680ef4b667a441b16a13e6f448d04f99cfb2
-L
-web/board/deleteBoardpro.jsp,7\b\7b76b08d455a856044e745dbdbb0953981fb07aa
+R
+"web/qna_problem/updateQuestion.jsp,4\3\43f4964a70efecaacdefb99fec0043eb00d4438a
+M
+web/board_stu/getBoardStu.jsp,3\5\35ebcd6df902f15608699295616baaecc491d0ff
 M
 web/learning_py/boardList.jsp,1\f\1f5487537d06f1cf089905e5add7124ba6279f0b
 O
 web/learning_java/boardList.jsp,6\7\675e342d71622942aa7a84bb67d4aab183f2d86b
->
-web/header.jsp,f\f\ff77691b3d429e53a4449f401a4cd692f37474d9
-C
-web/member/term.jsp,3\6\3619eaa96c134fb9e5401a3bb7a28c0a6d967300
 D
 web/menu/company.jsp,a\7\a7c17204387ae30e23a7ec4c09d2c08fb6806b54
+F
+web/board/getBoard.jsp,8\6\86f6680ef4b667a441b16a13e6f448d04f99cfb2
+L
+web/board/deleteBoardpro.jsp,7\b\7b76b08d455a856044e745dbdbb0953981fb07aa
+>
+web/header.jsp,f\f\ff77691b3d429e53a4449f401a4cd692f37474d9
+=
+web/index.jsp,9\f\9f198ed450f32e45b10ec3c2b1406e609b4a96cd
